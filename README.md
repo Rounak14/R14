@@ -10,3 +10,5 @@ this is the code to create a linked list obtained from intersection of two diffe
 Code to bubble sort an array of user prompt sized.
 ## Insertionsort
 Code to sort an user prompt sized array using Insertion sort method.
+## Sortalgo
+useful Sorting codes available such as merge sort,quick sort,selection sort etc.
