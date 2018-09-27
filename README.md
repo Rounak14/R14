@@ -8,3 +8,5 @@ this is code to generate postfix of a expression and evaluating the vallue of th
 this is the code to create a linked list obtained from intersection of two different linked lists.
 ## Bubblesort
 Code to bubble sort an array of user prompt sized.
+## Insertionsort
+Code to sort an user prompt sized array using Insertion sort method.
