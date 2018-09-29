@@ -12,3 +12,5 @@ Code to bubble sort an array of user prompt sized.
 Code to sort an user prompt sized array using Insertion sort method.
 ## Sortalgo
 useful Sorting codes available such as merge sort,quick sort,selection sort etc.
+## Graph
+Folder containg Codes for graph (data structure) resulting its BFS and DFS.
