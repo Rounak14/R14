@@ -8,7 +8,9 @@ Implemented AVL tree(self balanced tree) with rotate right, rotate left,rotate r
 ## Btree
 Implemention of B-tree.
 ## treegfg
-Implementing b-tree source taken from geeksforgeeks.(some traversal changes and input)
+Implementing b-tree *source taken from geeksforgeeks.(some traversal changes and input)*
+## alphatree
+Implementing b-tree using alphabets as keys and performing operations over the alphabets *source taken from geeksforgeeks(some traversal changes and input)*.
 ## Evaluate
 this is code to generate postfix of a expression and evaluating the vallue of the given algebraic expression.
 ## Intersection
