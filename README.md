@@ -5,6 +5,8 @@ I have used the concept of stack here and each time a closing bracket is invoked
 Folder containg Codes for graph (data structure) resulting its BFS and DFS.
 ## AVL
 Implemented AVL tree(self balanced tree) with rotate right, rotate left,rotate right then left and rotate left then right fucntions for the proper functioning of the code!
+## Btree
+Implemention of B-tree.
 ## Evaluate
 this is code to generate postfix of a expression and evaluating the vallue of the given algebraic expression.
 ## Intersection
