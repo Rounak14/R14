@@ -7,6 +7,8 @@ Folder containg Codes for graph (data structure) resulting its BFS and DFS.
 Implemented AVL tree(self balanced tree) with rotate right, rotate left,rotate right then left and rotate left then right fucntions for the proper functioning of the code!
 ## Btree
 Implemention of B-tree.
+## treegfg
+Implementing b-tree source taken from geeksforgeeks.(some traversal changes and input)
 ## Evaluate
 this is code to generate postfix of a expression and evaluating the vallue of the given algebraic expression.
 ## Intersection
